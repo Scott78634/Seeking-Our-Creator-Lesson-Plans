@@ -1,0 +1,3 @@
+inotify_add_watch(/var/lib/samba/usershares) failed: (Permission denied)
+Settings::instance called after the first use - ignoring
+Settings::instance called after the first use - ignoring
