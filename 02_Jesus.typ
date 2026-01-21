@@ -24,7 +24,7 @@
     )
     }
 
-= A Presentation of the Doctrine of the Trinity #link(<Index>)[↺]<slide-title>
+= A Presentation of the Nature of Jesus Christ #link(<Index>)[↺]<slide-title>
 
 This presentation is necessarily an overview, due to time constraints.
 
